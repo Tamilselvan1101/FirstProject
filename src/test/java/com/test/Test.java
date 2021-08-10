@@ -22,4 +22,12 @@ public class Test {
 		System.out.println("After");
 
 	}
+	public void empId() {
+		System.out.println("id is 123");
+
+	}
+	public void empName() {
+		System.out.println("name is Tamil");
+
+	}
 }
